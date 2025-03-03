@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    border: 1em solid lightskyblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    margin: 10m;
+    padding: 0;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+    font-size: 1.5em;
+    margin: 10m;
+    padding: 0;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+    font-size: 1.2em;
+    margin: 10m;
+    padding: 0;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: darkgreen;
+    font-size: 1em;
+    margin: 10m;
+    padding: 0;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: normal;
+    text-align: center;
+    font-size: 1em;
+    margin: 1em;
+    padding: 1em;
+}
+
